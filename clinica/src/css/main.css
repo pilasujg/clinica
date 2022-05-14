@@ -1,0 +1,29 @@
+     #cabecera {
+    color:rgb(9, 112, 112);
+    font-style: italic
+        }
+      
+      body {
+          background-color: lightcyan;
+      }
+      #logofoto {
+          padding: left 1px;
+      }
+      #ortodon {
+          background-color: #D1F2EB;
+      }
+      #licencia {
+          background-color: #FDEBD0;
+      }
+      #auxiliar {
+          background-color: #D7BDE2;
+      }
+      #about {
+          background: url("/src/public/fotos/tatiwor.png") no-repeat;
+          background-attachment: fixed;
+          background-size: cover;
+          min-height: 400px;
+      }
+      .background-overlay {
+          background: rgba(48, 51, 107, .7)
+      }
